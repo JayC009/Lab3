@@ -4,3 +4,6 @@ Green
 Yellow
 Orange
 Purple
+Silver
+Gold
+Brown
